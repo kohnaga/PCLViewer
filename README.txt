@@ -19,5 +19,5 @@ PCLViewer ————- bin
 
 
 *download ghostpcl from this site
-ghostpcl has plc-based licenses, so be careful of utilizing 
+ghostpcl has gpl-based licenses, so be careful of utilizing 
 <http://www.ghostscript.com>
